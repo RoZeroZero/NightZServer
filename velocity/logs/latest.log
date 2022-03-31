@@ -1,0 +1,33 @@
+[23:18:21] [main/INFO]: Booting up Velocity 3.1.1...
+[23:18:21] [main/INFO]: Loading localizations...
+[23:18:22] [main/INFO]: Connections will use NIO channels, Java compression, Java ciphers
+[23:18:22] [main/WARN]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[23:18:22] [main/INFO]: Loading plugins...
+[23:18:22] [main/INFO]: Loaded 0 plugins
+[23:18:22] [Netty NIO Boss #0/INFO]: Listening on /[0:0:0:0:0:0:0:0]:25565
+[23:18:22] [main/INFO]: Done (1,13s)!
+[23:19:16] [Netty NIO Worker #0/INFO]: [connected player] RoZeroZero (/127.0.0.1:63454) has connected
+[23:19:16] [Netty NIO Worker #0/INFO]: [server connection] RoZeroZero -> purpur1 has connected
+[23:19:46] [Netty NIO Worker #0/ERROR]: [connected player] RoZeroZero (/127.0.0.1:63454): read timed out
+[23:19:46] [Netty NIO Worker #0/INFO]: [connected player] RoZeroZero (/127.0.0.1:63454) has disconnected
+[23:19:46] [Netty NIO Worker #0/INFO]: [server connection] RoZeroZero -> purpur1 has disconnected
+[23:22:44] [Netty NIO Worker #1/INFO]: [connected player] RoZeroZero (/88.204.51.112:59073) has connected
+[23:22:44] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur1 has connected
+[23:23:13] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur2 has connected
+[23:23:13] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur1 has disconnected
+[23:23:32] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur1 has connected
+[23:23:32] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur2 has disconnected
+[23:23:47] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur2 has connected
+[23:23:47] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur1 has disconnected
+[23:26:18] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur1 has connected
+[23:26:18] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur2 has disconnected
+[23:27:04] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur2 has connected
+[23:27:04] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur1 has disconnected
+[23:27:08] [Netty NIO Worker #1/INFO]: [connected player] RoZeroZero (/88.204.51.112:59073) has disconnected
+[23:27:08] [Netty NIO Worker #1/INFO]: [server connection] RoZeroZero -> purpur2 has disconnected
+[23:27:19] [Netty NIO Worker #3/INFO]: [connected player] RoZeroZero (/88.204.51.112:59125) has connected
+[23:27:19] [Netty NIO Worker #3/INFO]: [server connection] RoZeroZero -> purpur1 has connected
+[23:27:30] [Netty NIO Worker #3/INFO]: [server connection] RoZeroZero -> purpur2 has connected
+[23:27:30] [Netty NIO Worker #3/INFO]: [server connection] RoZeroZero -> purpur1 has disconnected
+[23:27:46] [Netty NIO Worker #3/INFO]: [connected player] RoZeroZero (/88.204.51.112:59125) has disconnected
+[23:27:46] [Netty NIO Worker #3/INFO]: [server connection] RoZeroZero -> purpur2 has disconnected
